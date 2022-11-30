@@ -9,25 +9,25 @@ One of the most dreaded diseases in early modern England was plague, which was p
 - Jack Harvey, Digital History Research Assistant, 2022-present
 - Kristin Heitman, Advisory Board, 2020-present
 - Jason Heppler, Senior Web Developer, 2021-present
-- Julia Hoffer, Grants Administrator, 2020-present
 - Katie Kania, Digital History Research Assistant, 2021-present
 - Ted McCormick, Advisory Board, 2021-present
-- Emily Meyers, Digital History Research Assistant, 2021-present
 - Thanh Nguyen, Office Manager, 2020-present
 - Amira Roess, Advisory Board, 2021-present
 - Logan Skorupa, Digital History Research Assistant, 2022-present
 - Tony Trinh, Systems Administrator, 2022-present
 - Cecilia Ward, Digital History Research Assistant, 2022-present
 
-## Project Alumni
+### Project Alumni
 
-- Megan Brett, Digital History Associate, 2021-2022
+- Megan Brett, Project Manager, 2021-2022
 - Dan Evans, Project Advisor, 2017-2018
 - Atta Gould, Digital History Research Assistant, 2021-2022
 - Janet Hammond, Graduate Student Assistant, 2021
+- Julia Hoffer, Grants Administrator, 2020-2022
 - Dan Howlett, Graduate Research Assistant, 2021-2022
 - Jennie Jiang, RRCHNM Summer Intern, 2022
 - God's Will Katchoua, Systems Administrator, 2020-2022
 - Paige Kuester, Graduate Student Assistant, 2018
+- Emily Meyers, Digital History Research Assistant, 2021-2023
 - Megan Mitchell, Digital Public Humanities Intern, 2022
 - Kayleigh Seng, Digital History Research Assistant, 2021-2022
