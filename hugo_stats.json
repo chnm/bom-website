@@ -1,0 +1,27 @@
+{
+  "htmlElements": {
+    "tags": [
+      "body",
+      "div",
+      "h1",
+      "head",
+      "html",
+      "link",
+      "meta",
+      "p",
+      "script",
+      "title"
+    ],
+    "classes": [
+      "bg-sky-600",
+      "font-bold",
+      "text-3xl",
+      "text-blue-700",
+      "text-slate-100",
+      "underline"
+    ],
+    "ids": [
+      "content"
+    ]
+  }
+}
