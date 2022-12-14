@@ -25,13 +25,13 @@ h6 {
   font-family: "Work Sans", sans-serif;
 }
 
-.slider-container {
-  padding-top: 32px;
-  padding-left: 25px;
-  padding-right: 25px;
+@layer base {
+  a {
+    @apply text-dbn-purple;
+  }
 }
 
 /* Footer */
-footer {
+footer p {
   font-family: "Playfair Display", serif;
 }
