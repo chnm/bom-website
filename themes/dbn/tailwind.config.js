@@ -31,6 +31,7 @@ module.exports = {
     },
   },
   plugins: [
+    require('postcss-import'),
     require('tw-elements/dist/plugin'),
     require('@tailwindcss/typography'),
   ],
