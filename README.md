@@ -1,5 +1,7 @@
 # bom-website
 
+THESE FILES HAVE BEEN MOVED TO <https://github.com/chnm/bom/tree/main/bom-website>. This repo is no longer updated regularly.
+
 The website and blog for the Death by Numbers project.
 
 ## Theme
